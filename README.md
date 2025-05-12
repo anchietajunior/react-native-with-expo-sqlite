@@ -9,7 +9,7 @@ npx create-expo-app@latest --template blank
 ## Instalar o Expo SQLite
 
 ```
-expo install expo-sqlite
+npx expo install expo-sqlite
 ```
 
 ## Arquivos de configuração
